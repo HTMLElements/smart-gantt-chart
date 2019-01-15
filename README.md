@@ -1,3 +1,11 @@
+# [Smart Core](https://www.htmlelements.com) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%2020%20free%20custom%20elements%20based%20on%20SmartHTMLElements%20&url=https://www.htmlelements.com/&via=htmlelements&hashtags=bootstrap,design,templates,blocks,developers,webcomponents,customelements,polymer,material)
+
+&nbsp;[![Slack](https://smarthtmlelements-slack.herokuapp.com/badge.svg)](https://smarthtmlelements.slack.com/)
+[![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/HTMLElements/smart-core/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/v/froala-design-blocks.svg?colorB=brightgreen)](https://www.npmjs.com/package/@smarthtmlelements/smart-core)
+[![GitHub package version](https://img.shields.io/github/package-json/v/HTMLElements/smart-core.svg)](https://github.com/HTMLElements/smart-core)
+[![License: APACHE](https://img.shields.io/badge/license-APACHE-blue.svg)](https://github.com/HTMLElements/smart-core/blob/master/LICENSE)
+[![](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=www.htmlelements.com)](https://www.htmlelements.com)
 # Smart-Core
 
 This repo contains only the scripts required to run applications using Smart HTML Elements.
