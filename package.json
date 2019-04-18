@@ -1,6 +1,6 @@
 {
   "name": "@smarthtmlelements/smart-core",
-  "version": "2.4.0",
+  "version": "3.0.0",
   "description": "Smart Core Framework",
   "scripts": {},
   "repository": {
@@ -8,7 +8,6 @@
     "url": "git+https://github.com/HTMLElements/smart-core.git"
   },
   "author": "Smart HTML Elements",
-  "license": "SEE LICENSE IN https://www.htmlelements.com/license/",
   "bugs": {
     "url": "https://github.com/HTMLElements/smart-core"
   },
