@@ -1,6 +1,6 @@
 {
   "name": "@smarthtmlelements/smart-core",
-  "version": "3.0.0",
+  "version": "3.2.0",
   "description": "Smart Core Framework",
   "scripts": {},
   "repository": {
@@ -52,5 +52,6 @@
     "material design",
     "material datepicker",
     "material calendar"
-  ]
+  ],
+  "license": "ISC"
 }
